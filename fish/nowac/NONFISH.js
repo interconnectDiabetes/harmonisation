@@ -1,1 +1,4 @@
-Shellfish (prawn) (grskaldy)
+// Shellfish (prawn) (grskaldy)
+
+nonFish = $('grskaldy').value();
+nonFish;

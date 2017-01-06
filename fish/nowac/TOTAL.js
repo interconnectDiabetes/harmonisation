@@ -1,1 +1,4 @@
-Total fish (grfisk)
+// Total fish (grfisk)
+
+total = $('grfisk').value();
+total;
