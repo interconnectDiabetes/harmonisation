@@ -1,1 +1,4 @@
-// • shrimps (V2047)
+// shrimps (V2047)
+
+nonfish = $('V2047').value();
+
