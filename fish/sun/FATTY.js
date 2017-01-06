@@ -9,5 +9,3 @@
 
 fattyFish = $('pesazudi').value();
 fattyFish = fattyFish * 150; // to turn into g/d
-
-
