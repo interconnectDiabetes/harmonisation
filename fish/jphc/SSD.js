@@ -1,1 +1,5 @@
-Salteddriedfish
+// Salteddriedfish
+
+ssdFish = $('Salteddriedfish').value();
+
+ssdFish;

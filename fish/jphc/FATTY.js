@@ -1,1 +1,4 @@
-Oilyfish
+//Oilyfish
+
+fattyFish = $('Oilyfish').value();
+fattyFish;

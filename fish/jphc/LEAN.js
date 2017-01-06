@@ -1,1 +1,4 @@
-Leanfish
+//Leanfish
+
+leanFish = $('Leanfish').value();
+leanFish;
