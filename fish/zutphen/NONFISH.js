@@ -1,0 +1,1 @@
+Add: squid (f1098), mussels (f0111), shrimp peeled (f0348), lobster (f0352), crab (f0351), oyster (f0354), shrimp, salted dried (f0702), shrimp paste (f0704), caviar, cod roe raw (f1097), snails (f1101), mussels fried baked (f1583), canned shrimp, natural (f1631)
