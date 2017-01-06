@@ -1,0 +1,5 @@
+// Sum of: • Cod (V2044)
+// • Stockfish (V2049)
+// • Fresh frozen saithe (V2040)
+// • Perch (V2034)
+//  Pike (V2035)  Flounder (V2036)  • fish, average (V2045)  • fish in soup, average (V2046)  • Tuna (V2061) 
