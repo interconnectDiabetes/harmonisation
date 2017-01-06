@@ -1,1 +1,3 @@
-saltwtfish
+//saltwtfish
+saltFish = $('saltwtfish').value();
+saltFish;

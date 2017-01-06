@@ -1,1 +1,4 @@
-totalfish
+// totalfish
+
+total = $('totalfish').value();
+total;
