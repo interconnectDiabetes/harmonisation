@@ -11,4 +11,4 @@ for (int i = 0; i < friedFish.length; i++){
 	sum = sum + friedFish[i];
 }
 
-return sum;
+sum;

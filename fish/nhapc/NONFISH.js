@@ -6,4 +6,4 @@ for (int i = 0; i < nonFish.length; i++){
 	sum = sum + nonFish[i];
 }
 
-return sum;
+sum;

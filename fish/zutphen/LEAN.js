@@ -30,4 +30,4 @@ for (int i = 0; i < leanFish.length; i++){
 	sum = sum + leanFish[i];
 }
 
-return sum;
+sum;

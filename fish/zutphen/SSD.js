@@ -15,4 +15,4 @@ for (int i = 0; i < ssdFish.length; i++){
 	sum = sum + ssdFish[i];
 }
 
-return sum;
+sum;

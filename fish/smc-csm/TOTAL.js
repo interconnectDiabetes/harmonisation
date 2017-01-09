@@ -7,4 +7,4 @@ for (int i = 0; i < allFish.length; i++){
 	sum = sum + allFish[i];
 }
 
-return sum;
+sum;

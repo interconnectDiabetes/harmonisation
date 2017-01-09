@@ -17,4 +17,4 @@ for (int i = 0; i < freshFish.length; i++){
 	sum = sum + freshFish[i];
 }
 
-return sum;
+sum;

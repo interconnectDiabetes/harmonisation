@@ -22,4 +22,5 @@ for (int i = 0; i < saltFish.length; i++){
 	sum = sum + saltFish[i];
 }
 
-return sum;
+
+sum;

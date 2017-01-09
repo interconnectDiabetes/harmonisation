@@ -21,4 +21,4 @@ for (int i = 0; i < fattyFish.length; i++){
 	sum = sum + fattyFish[i];
 }
 
-return sum;
+sum;
