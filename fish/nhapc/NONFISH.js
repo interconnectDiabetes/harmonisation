@@ -1,9 +1,6 @@
 //Add: crabfish + shellfish + sorftfish
-var nonFish = ['crabfish', 'shellfish','sorftfish'];
+crabfish = $('crabfish').value()
+shellfish = $('shellfish').value()
+sorftfish = $('sorftfish').value()
 
-var sum = 0;
-for (int i = 0; i < nonFish.length; i++){
-	sum = sum + nonFish[i];
-}
-
-sum;
+sum = crabfish+shellfish+sorftfish

@@ -21,12 +21,16 @@
 // herring marinated (f1100), 
 // mackerel smoked (f1586)
 
-var fattyFish = ['f1096','f0602','f0355','f0603','f1586','f1255','f0604','f0349','f0350','f1100','f0347','f0822',
-			'f0116','f0356','f0113','f0112','f0353','f0821','f1588','f1610','f1587'];
-
-var sum = 0;
-for (int i = 0; i < fattyFish.length; i++){
-	sum = sum + fattyFish[i];
+function add(a,b) {
+	return a+b;
 }
 
+var fattyFish = [$('f1096_85').value(),$('f0602_85').value(),$('f0355_85').value(),$('f0603_85').value(),
+				$('f1586_85').value(),$('f1255_85').value(),$('f0604_85').value(),$('f0349_85').value(),
+				$('f0350_85').value(),$('f1100_85').value(),$('f0347_85').value(),$('f0822_85').value(),
+				$('f0116_85').value(),$('f0356_85').value(),$('f0113_85').value(),$('f0112_85').value(),
+				$('f0353_85').value(),$('f0821_85').value(),$('f1588_85').value(),$('f1610_85').value(),
+				$('f1587_85').value()];
+
+var sum = fattyFish.reduce(add,0);
 sum;
