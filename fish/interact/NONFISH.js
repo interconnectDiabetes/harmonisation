@@ -1,0 +1,1 @@
+nonfish = $("qge0802").value()

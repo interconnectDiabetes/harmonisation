@@ -1,0 +1,1 @@
+fatty = $("qge080102").value()
