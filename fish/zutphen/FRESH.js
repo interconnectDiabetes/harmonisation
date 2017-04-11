@@ -7,7 +7,8 @@
 // salmon smoked (f1096),  
 // perch red prepared in microwave (f1622)
 
-var freshFish = ['f1096','f0602','f0603','f1587','f0112','f1610','f1622'];
+var freshFish = [$('f1096_85').value(),$('f0602_85').value(),$('f0603_85').value(),$('f1587_85').value(),
+				$('f0112_85').value(),$('f1610_85').value(),$('f1622_85').value()];
 
 var sum = 0;
 for (int i = 0; i < freshFish.length; i++){

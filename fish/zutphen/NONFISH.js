@@ -12,7 +12,10 @@
 // mussels fried baked (f1583), 
 // canned shrimp, natural (f1631)
 
-var nonFish = ['f0704','f1101','f0354','f1583','f0111','f0352','f0351','f1097','f1098','f0702','f1631','f0348'];
+var nonFish = [$('f0704_85').value(),$('f1101_85').value(),$('f0354_85').value(),
+				$('f1583_85').value(),$('f0111_85').value(),$('f0352_85').value(),
+				$('f0351_85').value(),$('f1097_85').value(),$('f1098_85').value(),
+				$('f0702_85').value(),$('f1631_85').value(),$('f0348_85').value()];
 
 var sum = 0;
 for (int i = 0; i < nonFish.length; i++){
